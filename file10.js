@@ -8,3 +8,11 @@ console.log(fruits.pop());
 //pop last elemnt hatha haan
 fruits.pop();
 console.log(fruits);
+//unshift-starting mai add karna ka lia
+ fruits.unshift("gauva");
+ fruits.unshift("palm");
+ console.log(fruits);
+ //shift -starting sa elemnt remove karega
+ console.log(fruits.shift());
+ console.log("jhi")
+ 
